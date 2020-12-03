@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/guibafica/guibafica/blob/master/images/illustration3.svg" width="600"/>
+<img align="right" src="https://github.com/guibafica/guibafica/blob/master/images/illustration3.svg" width="450"/>
 
 ### Hello, I'm Guilherme Bafica 👋
 
