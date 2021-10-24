@@ -6,7 +6,7 @@ I’m a full stack developer that loves everything about coding. I currently wor
 
 - 📫  How to reach me: gb.engcomp@hotmail.com or Instagram [@guibafica](https://www.instagram.com/guibafica/).
 - 🛠️ Stack: ReactJS, React Native and NodeJS.
-- 🍕  Fun facts: My second name pronunciation looks like Pizza "Bafizza" and is of Italian origin.
+- 🌐  My website: Look my portfolio [guilhermebafica.com](https://guilhermebafica.vercel.app/).
 
 
 [![Guilherme Bafica's github stats](https://github-readme-stats.vercel.app/api?username=guibafica&show_icons=true&theme=chartreuse-dark&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=03d361)](https://github.com/anuraghazra/github-readme-stats)
