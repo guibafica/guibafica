@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=03D361&reversal=false"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=03D361&random=false&width=435&lines=Hello%2C+I'm+Guilherme+Bafica+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=03D361&center=true&random=false&width=435&lines=Hello%2C+I'm+Guilherme+Bafica+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <img align="right" src="https://github.com/guibafica/guibafica/blob/master/images/illustration3.svg" width="450"/>
 
