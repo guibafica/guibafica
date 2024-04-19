@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&duration=4000&pause=1000&color=03D361&center=true&vCenter=true&random=false&width=1000&lines=%F0%9F%91%8B+Hey+there!+I'm+Guilherme+Bafica)](https://git.io/typing-svg)
 
-<!-- <h1 align="center">👋 Hey there! I'm Guilherme Bafica</h1> -->
 <h3 align="center">A full stack developer with 5+ years of experience who loves everything about coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guibafica&label=Profile%20views&color=03d361&style=flat" alt="guibafica" /> </p>
@@ -11,7 +10,7 @@
 
 - 🔭 I currently work with: **ReactJS, React Native and Node.js**
 
-- 👨‍💻 Some of my projects are available at: [guilhermebafica.com.br](guilhermebafica.com.br)
+- 👨‍💻 Some of my projects are available at: [guilhermebafica.com.br](https://guilhermebafica.com.br/)
 
 - 🌱 I’m currently learning: **Python, C#, Java and php**
 
