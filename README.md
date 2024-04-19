@@ -12,7 +12,7 @@
 
 - 👨‍💻 Some of my projects are available at: [guilhermebafica.com.br](https://guilhermebafica.com.br/)
 
-- 🌱 I’m currently learning: **Python, C#, Java and php**
+- 🧠 I’m currently learning: **Python, C#, Java and php**
 
 - 📫 How to reach me: **gb.engcomp@hotmail.com**
 
