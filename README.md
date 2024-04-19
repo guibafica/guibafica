@@ -10,9 +10,9 @@
 
 - 🔭 I currently work with: **ReactJS, React Native and Node.js**
 
-- 👨‍💻 Some of my projects are available at: [guilhermebafica.com.br](https://guilhermebafica.com.br/)
-
 - 🧠 I’m currently learning: **Python, C#, Java and php**
+
+- 👨‍💻 Some of my projects are available at: [guilhermebafica.com.br](https://guilhermebafica.com.br/)
 
 - 📫 How to reach me: **gb.engcomp@hotmail.com**
 
