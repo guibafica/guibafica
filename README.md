@@ -10,7 +10,7 @@
 
 - 🔭 I currently work with: **ReactJS, React Native and Node.js**
 
-- 🧠 I’m currently learning: **Python, C#, Java and php**
+- 🧠 I’m currently learning: **Python, C#, Java and GO**
 
 - 👨‍💻 Some of my projects are available at: [guilhermebafica.com.br](https://guilhermebafica.com.br/)
 
